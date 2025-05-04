@@ -1,0 +1,67 @@
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.exe
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.deps.json
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.runtimeconfig.json
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.dll
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\Spectre.Console.dll
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsol.4CA403AE.Up2Date
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.dll
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\refint\MyConsoleApp.dll
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\StarredNaga\RiderProjects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\ref\MyConsoleApp.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.exe
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.deps.json
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.runtimeconfig.json
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\Spectre.Console.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsol.4CA403AE.Up2Date
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\refint\MyConsoleApp.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\ref\MyConsoleApp.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\WindowsInput.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\x86\leptonica-1.82.0.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\x86\tesseract50.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\x64\leptonica-1.82.0.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\x64\tesseract50.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\System.Private.Windows.Core.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\Tesseract.dll
+C:\Users\StarredNaga\Desktop\Rider Projects\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.exe
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.deps.json
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.runtimeconfig.json
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.dll
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\System.Private.Windows.Core.dll
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsol.4CA403AE.Up2Date
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.dll
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\refint\MyConsoleApp.dll
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\obj\Debug\net9.0\ref\MyConsoleApp.dll
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\8bit-walk.wav
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\menu-music.wav
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\item-use.wav
+C:\Users\StarredNaga\Desktop\Projects\C#\MyConsoleApp\MyConsoleApp\bin\Debug\net9.0\box-delivered.wav
