@@ -1,6 +1,6 @@
 # **Boxes of Doom**
 
-![screenshot](imageFolder/screenshot.png](https://github.com/StarredNaga/Boxes-of-doom/blob/master/GameScreenShot2.bmp)
+![ezcv logo](https://github.com/StarredNaga/Boxes-of-doom/blob/master/GameScreenShot2.bmp)
 
 ### Краткое описание
 
