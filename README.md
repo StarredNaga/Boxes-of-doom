@@ -2,6 +2,9 @@
 
 ![ezcv logo](https://github.com/StarredNaga/Boxes-of-doom/blob/master/GameScreenShot2.bmp)
 
+
+![ezcv logo](https://github.com/StarredNaga/Boxes-of-doom/blob/master/GameScreenShot.bmp)
+
 ### Краткое описание
 
 Проект, созданный `для хакатона на тему "склад"`. В нём я попытался повторить механику игры **DOOM** в консоли.
